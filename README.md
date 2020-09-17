@@ -20,7 +20,7 @@ Mit 3 Scheiben kann das Rätsel in 7 Zügen gelöst werden. Die minimale Anzahl 
 
 ## Arrays
 
-### Exercise 6.1 - [Tower of hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+### Exercise 6.11 - [Tower of hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
 The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.
 
